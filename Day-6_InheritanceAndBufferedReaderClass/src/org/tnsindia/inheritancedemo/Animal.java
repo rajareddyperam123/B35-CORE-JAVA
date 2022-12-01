@@ -7,6 +7,10 @@ public class Animal {
 	{
 		System.out.println("The name of the animal is: "+name);
 	}
+	void accept() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
 
