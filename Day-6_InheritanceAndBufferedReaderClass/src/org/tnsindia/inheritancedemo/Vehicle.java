@@ -5,6 +5,7 @@ package org.tnsindia.inheritancedemo;
 public class Vehicle {
 
 	private String name;
+	public int speed;
 	public void display()
 	{
 		System.out.println("The vehicle name is: "+name);
